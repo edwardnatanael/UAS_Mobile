@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Akselerasi_Vaksinasi</string>
+    <string name="login">Login</string>
+    <string name="login_message">Masukan email dan password Anda</string>
+    <string name="email">Alamat Email</string>
+    <string name="password">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_mempunyai_akun">Belum Mempunyai akun? </string>
+    <string name="daftar">Daftar</string>
+    <string name="register">Register</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="title_activity_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_vaksin">Vaksin</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_profil">Profil</string>
+    <string name="gender_prompt">Pilih Jenis Kelamin</string>
+    <string name="label_registration_id">Registration Id</string>
+    <string name="label_age">Usia</string>
+    <string name="label_sex">Jenis Kelamin</string>
+    <string name="label_symptom">Gejala</string>
+    <string name="label_vax_type">Jenis Vaksin</string>
+    <string name="label_male">Laki-laki</string>
+    <string name="label_female">Perempuan</string>
+    <string name="label_detail_patient_data">Detail Data Patient</string>
+
+    <string-array name="list_jenis_kelamin">
+        <item>Pilih Jenis Kelamin</item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+        <item>Lain-lain</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194955561187",
+    "firebase_url": "https://capstone-project-312804-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstone-project-312804",
+    "storage_bucket": "capstone-project-312804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194955561187:android:f84a56c7981d0277339dd6",
+        "android_client_info": {
+          "package_name": "com.capstone.project.akselerasi_vaksinasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194955561187-7hhr8mrf4o9p61apo5ao0serr00rjilg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGaoB7PQiBRP9ET_n2KtxH9BBaKXdPKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194955561187-7hhr8mrf4o9p61apo5ao0serr00rjilg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
